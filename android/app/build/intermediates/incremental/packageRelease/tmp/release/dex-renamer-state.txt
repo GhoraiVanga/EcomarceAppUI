@@ -1,0 +1,4 @@
+#Tue Feb 09 01:33:58 PST 2021
+base.0=D\:\\e-commerce-app-react-native-master\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
